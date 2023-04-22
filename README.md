@@ -1,5 +1,5 @@
 # SpaceWarp - Generative Local Edits - Computational Photography
-SpaceWarp is a program that will take an image as input and generate an aesthetically pleasing edit of the image as if it was captured in deep space. 
+SpaceWarp is a program that given an input image generates an aesthetically pleasing edit of the image as if it was captured in deep space. 
 
 
 ## Structure
